@@ -1,0 +1,1 @@
+{"mark_job_as_complete":"配達の証明をアップロードします","waiting_time":"待機時間","recipient_name":"受信者の名前","signature":"署名","success_marking_job_as_complete":"ジョブが完了しました。","error_marking_job_as_complete":"ジョブの更新中にエラーが発生しました。","invalid_wait_time":"待機時間の値が無効です。 待機時間は整数でなければなりません。"}

@@ -1,0 +1,1 @@
+{"error_getting_user_detail":"ユーザーの詳細を取得中にエラーが発生しました.","error_updating_user_detail":"ユーザーの詳細の更新中にエラーが発生しました。","success_deleting_user":"ユーザーアカウントは正常に削除されました。","error_deleting_user":"ユーザーの削除中にエラーが発生しました。","warning_about_to_delete_user":"ユーザーを削除してもよろしいですか？","current_privileges":"特権","report":"報告書","configuration":"会社の経営"}

@@ -1,0 +1,1 @@
+{"mark_job_as_complete":"Upload Proof of Delivery","waiting_time":"Waiting Time","recipient_name":"Recipient Name","signature":"Signature","success_marking_job_as_complete":"Job has been completed.","error_marking_job_as_complete":"An error occured while updating job.","invalid_wait_time":"Invalid value for waiting time. Waiting Time must be a whole number."}
